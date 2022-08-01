@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-DILRAJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/dil-raj-gautam-3681051b7/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-DILRAJ-yellow)](https://stackoverflow.com/users/19616564/dil-raj-gautam)
+[![Linkedin Badge](https://img.shields.io/badge/-DIL_RAJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dil-raj-gautam-3681051b7/)](https://www.linkedin.com/in/dil-raj-gautam-3681051b7/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-DIL_RAJ-yellow)](https://stackoverflow.com/users/19616564/dil-raj-gautam)
 
 I'm
 Full Stack Solution Architect
@@ -23,7 +23,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=challenger-112&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**challenger-112/challenger-112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
