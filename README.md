@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/dil-raj-gautam-3681051b7/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/19616564/dil-raj-gautam)
+[![Linkedin Badge](https://img.shields.io/badge/-DIL RAJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/dil-raj-gautam-3681051b7/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-DIL RAJ-yellow)](https://stackoverflow.com/users/19616564/dil-raj-gautam)
 
 I'm
 Full Stack Solution Architect
