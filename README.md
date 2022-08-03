@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-DIL_RAJ-yellow)](https://stackoverflow.com/users/19616564/dil-raj-gautam)
 
 I'm
-Full Stack Web Development coder. Computer and the technologies associated with it , is one of my prior interest. I have learned a lot form various platform and always try to learn and improve. I truly believe in learn-work-grow process.  I have a wide range of skills that include back-end development, designing websites, front-end development (HTML, CSS, Javascript), Database(Mysql).
+Full Stack Web Development coder. Computer and the technologies associated with it , is one of my prior interest. I have learned a lot form various platform and always try to learn and improve. I truly believe in learn-work-grow process.  I have a wide range of skills that include back-end development, designing websites, front-end development (HTML, CSS, Javascript), Database(Mysql), C programming, C++ programming.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/challenger-112/count.svg)
